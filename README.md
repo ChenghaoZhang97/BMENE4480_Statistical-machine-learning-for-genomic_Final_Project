@@ -5,7 +5,7 @@
 ## Files included:
 
 * **mainCode.ipynb** - containing the main code of our model (need to change the input file path)
-* **1M_neurons_neuron20k.h5** - the input dataset we used 
+* **1M_neurons_neuron20k.h5** - the input dataset we used (can be download from https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.3.0/1M_neurons)
 * **Final_Paper** - final project report
 * Dataset - containing the input dataset we tried
 * Simulate.ipynb - code for generating simulated dataset, 
